@@ -1,6 +1,6 @@
 <template>
   <card>
-    <h5 slot="header" class="title">Edit Profile</h5>
+    <h5 slot="header" class="title">Edited Profile by Nikita</h5>
     <div class="row">
       <div class="col-md-5 pr-md-1">
         <base-input label="Company (disabled)"
